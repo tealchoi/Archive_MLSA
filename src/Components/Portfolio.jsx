@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/imagesrc2.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A poetic scenery behind the piano";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A piece of wave",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Within a digital fabrication workshop, I embarked on an artistic endeavor where Rhino and ABB Robotics' robotic arm converged to shape a singular piece of a wave. Harnessing their combined capabilities, I brought this sculpture to life. As a final touch, I projected mesmerizing graphics onto the formed structure, transforming it into a canvas for visual exploration.",
+    url: "https://tealchoi.com/a-piece-of-wave",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Trace memory circuitry",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Trace is an interactive artwork that navigates the elusive realm of evasive recollections and delves into the enigmatic journey of tracing déjà vu. As spectators engage with the piece, they become active participants, embarking on a captivating exploration of memory's elusive echoes.",
+    url: "https://tealchoi.com/trace-memory-circuitry",
   },
   {
-    title: "My Resume Site",
+    title: "Summer Breeze",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Embracing the realm of generative art, my creative endeavors unfold as a harmonious fusion of real-time audio capturing and the intricate utilization of data, culminating in visually captivating compositions. Drawing inspiration from the ethereal movements found within the fluidity of sedimentary deposits, my works become a testament to the organic flow and captivating essence of nature.",
+    url: "https://tealchoi.com/summer-breeze",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Rave Geometry",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Leveraging the capabilities of virtual cameras, I meticulously recreated the interviews, incorporating diverse perspectives to breathe life into the digital realm.",
+    url: "https://tealchoi.com/rave-geometry",
   },
 ];
 
